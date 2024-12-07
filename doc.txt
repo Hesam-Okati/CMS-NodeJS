@@ -1,0 +1,46 @@
+Project Name : Hesam Blog
+Type : Blog
+Verson : 1.1.1
+Programmer : Hesam Okati
+------------------------------------------------
+Facilities:
+    * Admins
+    * Auth
+    * SEO
+    * Biutiully
+    * Editor CSS , HTML
+    * Web Diesgn
+    * OnTime ( WebSocket )
+    * Suppurt 2 lange For Important Pages
+    * Memoalse
+--------------------------------------------------
+Techs:
+    * Back-End :
+                * NodeJS : For Server
+                * Express : For Node Fremwork
+                * MongoDB : DataBase
+    
+    * Front-End : 
+                    * React : For Front Fremwork 💹
+                    * libs ❌
+                    * MUI : For Diesgn ❌
+                    * Tailwindcss: CSS Fremwork 💹
+                    * WebSocket: ✖
+                    * TypeScript in React: ✖
+    
+    * Testint :
+                * TypeScript ✖
+                * Jest ✖
+
+    * Control Verson : 
+                        * git : local 
+                        * gitHub : Online
+
+    * Building : 
+                    * Vite
+
+
+
+
+
+* For Fetching Data of all APIs: Axios
